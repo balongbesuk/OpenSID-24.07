@@ -1,7 +1,7 @@
-GNU GENERAL PUBLIC LICENSE
+                    GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -36,6 +36,29 @@ gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  And you must show them these terms so they
 know their rights.
+
+Distribution of "VERSION PUBLIC(UMUM)" and "VERSION PREMIUM":
+The 'Version Public (UMUM)' is a copy of the software with limited access to the 'Version Premium' features for a period of 6 months. The 'Version Premium' is continuously updated based on user feedback, with weekly bug fixes and monthly feature releases. Any features and improvements that are released in the 'Version Premium' during a given month will also be included in the 'Version Public (UMUM),' but with a 6-month delay. However, it's important to note that there are certain features that will never be released in the 'Version Public (UMUM)'. These features are exclusively reserved for 'Version Premium' users and are not part of the 'Version Public (UMUM)' due to the policies set by the administrators.
+
+Copyright and Additional Licensing:
+1. The copyright holder holds the exclusive right to determine and regulate the differences between the 'Version Public (UMUM)' and 'Version Premium' in terms of access to features and functions of the software.
+2. The copyright holder has the right to establish rules, policies, and update schedules for the 'Version Premium' and 'Version Public (UMUM)' in accordance with the applicable GPL provisions.
+3. Differences between the 'Version Public (UMUM)' and 'Version Premium' as determined by the copyright holder are final and binding. Features reserved exclusively for 'Version Premium' users will never be included in the 'Version Public (UMUM)'.
+
+Users are required to comply with the policies established by the copyright holder regarding differences between these versions. The copyright holder has the right to modify these policies with notification to users in accordance with the applicable GPL provisions.
+
+Additional Documentation:
+For further details on the differences between 'Version Public (UMUM)' and 'Version Premium' as well as additional usage guidelines, please refer to the [OpenSid Premium Documentation](https://opendesa.id/opensid-premium/).
+
+Users are encouraged to consult this additional documentation to gain a comprehensive understanding of the features and policies associated with each version.
+
+Pricing and Time Policy:
+The 'Version Premium' is offered with a pricing structure that is detailed in the [OpenSid Premium Documentation](https://opendesa.id/opensid-premium/). Users interested in upgrading to the 'Version Premium' are encouraged to consult this documentation for information on pricing and incentives.
+
+Access to the 'Version Public (UMUM)' is provided with certain limitations as specified in the documentation. The duration of the limitations is detailed in the same [OpenSid Premium Documentation](https://opendesa.id/opensid-premium/).
+
+It's important to note that access to the 'Version Premium' may require contributions or incentives as described in the documentation. The pricing and terms are in accordance with applicable laws and our organization policies.
+
 
   Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
@@ -631,8 +654,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    {one line to give the program's name and a brief idea of what it does.}
+    Copyright (C) {year}  {name of author}
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -645,14 +668,14 @@ the "copyright" line and a pointer to where the full notice is found.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
 
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    {project}  Copyright (C) {year}  {fullname}
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
@@ -664,11 +687,11 @@ might be different; for a GUI interface, you would use an "about box".
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
-<https://www.gnu.org/licenses/>.
+<http://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+<http://www.gnu.org/philosophy/why-not-lgpl.html>.
